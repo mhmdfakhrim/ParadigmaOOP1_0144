@@ -1,4 +1,6 @@
 #include <iostream>
+#include "anak.h"
+#include <vector>
 using namespace std;
 
 #ifndef IBU_H
